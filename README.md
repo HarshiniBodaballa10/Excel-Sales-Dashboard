@@ -20,6 +20,10 @@ This project analyzes sales data using Microsoft Excel.
 - Identified top performing regions
 - Analyzed product-wise revenue
 - Compared salesperson performance
+  
+  ## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
 
 ## Author 
 Harshini
